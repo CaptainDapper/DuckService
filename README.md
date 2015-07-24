@@ -1,5 +1,5 @@
 # DuckService
-Windows Service used to update DuckDNS
+Windows Service used to update DuckDNS. http://www.duckdns.org/
 
 Uses a service to update DuckDNS. Set and forget. Starts before user login.
 
