@@ -1,8 +1,0 @@
-C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckConsole\bin\Debug\DuckConsole.exe.config
-C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckConsole\bin\Debug\DuckConsole.exe
-C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckConsole\bin\Debug\DuckConsole.pdb
-C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckConsole\obj\Debug\DuckConsole.exe
-C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckConsole\obj\Debug\DuckConsole.pdb
-C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckConsole\bin\Debug\DuckLib.dll
-C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckConsole\bin\Debug\DuckLib.pdb
-C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckConsole\obj\Debug\DuckConsole.csprojResolveAssemblyReference.cache
