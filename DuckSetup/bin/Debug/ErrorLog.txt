@@ -1,0 +1,238 @@
+-----------------------
+--- 6/13/2015 19:29:58
+-----------------------
+Object reference not set to an instance of an object.
+-----------------------
+
+-----------------------
+--- 6/13/2015 19:30:07
+-----------------------
+Some crap happened. :(
+-----------------------
+
+-----------------------
+--- 6/13/2015 19:30:07
+-----------------------
+KO
+-----------------------
+
+-----------------------
+--- 6/13/2015 19:32:48
+-----------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at DuckLib.DuckDuck.get_IsInstalled() in c:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckLib\DuckDuck.cs:line 92
+Object reference not set to an instance of an object.
+   at DuckLib.DuckDuck.get_IsInstalled() in c:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckLib\DuckDuck.cs:line 92
+-----------------------
+
+-----------------------
+--- 6/13/2015 19:32:50
+-----------------------
+Some crap happened. :(
+-----------------------
+
+-----------------------
+--- 6/13/2015 19:32:50
+-----------------------
+KO
+-----------------------
+
+-----------------------
+--- 6/13/2015 19:33:50
+-----------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at DuckLib.DuckDuck.get_IsInstalled() in c:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckLib\DuckDuck.cs:line 92
+-----------------------
+
+-----------------------
+--- 6/13/2015 19:33:52
+-----------------------
+Some crap happened. :(
+-----------------------
+
+-----------------------
+--- 6/13/2015 19:33:52
+-----------------------
+KO
+-----------------------
+
+-----------------------
+--- 6/13/2015 19:34:55
+-----------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at DuckLib.DuckDuck.get_IsInstalled() in c:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckLib\DuckDuck.cs:line 92
+-----------------------
+
+-----------------------
+--- 6/13/2015 19:36:43
+-----------------------
+Some crap happened. :(
+-----------------------
+
+-----------------------
+--- 6/13/2015 19:36:43
+-----------------------
+KO
+-----------------------
+
+-----------------------
+--- 6/13/2015 19:37:16
+-----------------------
+Some crap happened. :(
+-----------------------
+
+-----------------------
+--- 6/13/2015 19:37:16
+-----------------------
+KO
+-----------------------
+
+-----------------------
+--- 6/13/2015 19:40:32
+-----------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at DuckLib.DuckDuck.get_IsInstalled() in c:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckLib\DuckDuck.cs:line 96
+-----------------------
+
+-----------------------
+--- 6/13/2015 19:40:39
+-----------------------
+Some crap happened while trying to update DuckDNS
+URL tried: https://www.duckdns.org/update?domains=domain&token=Token
+Response from duckdns.org: KO
+-----------------------
+
+-----------------------
+--- 6/13/2015 19:41:51
+-----------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at DuckLib.DuckDuck.get_IsInstalled() in c:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckLib\DuckDuck.cs:line 96
+-----------------------
+
+-----------------------
+--- 6/13/2015 19:41:59
+-----------------------
+System.IO.IOException: The parameter is incorrect.
+
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey, RegistryKeyPermissionCheck permissionCheck)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at DuckLib.DuckDuck.Install(String prmDomain, String prmToken) in c:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckLib\DuckDuck.cs:line 44
+-----------------------
+
+-----------------------
+--- 6/13/2015 19:45:08
+-----------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at DuckLib.DuckDuck.get_IsInstalled() in c:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckLib\DuckDuck.cs:line 98
+-----------------------
+
+-----------------------
+--- 6/13/2015 19:45:14
+-----------------------
+System.IO.IOException: The parameter is incorrect.
+
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey, RegistryKeyPermissionCheck permissionCheck)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at DuckLib.DuckDuck.Install(String prmDomain, String prmToken) in c:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckLib\DuckDuck.cs:line 45
+-----------------------
+
+-----------------------
+--- 6/13/2015 19:49:59
+-----------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at DuckLib.DuckDuck.get_IsInstalled() in c:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckLib\DuckDuck.cs:line 98
+-----------------------
+
+-----------------------
+--- 6/13/2015 19:50:11
+-----------------------
+System.IO.IOException: The parameter is incorrect.
+
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey, RegistryKeyPermissionCheck permissionCheck)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at DuckLib.DuckDuck.Install(String prmDomain, String prmToken) in c:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckLib\DuckDuck.cs:line 45
+-----------------------
+
+-----------------------
+--- 6/13/2015 19:52:53
+-----------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at DuckLib.DuckDuck.get_IsInstalled() in c:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckLib\DuckDuck.cs:line 98
+-----------------------
+
+-----------------------
+--- 6/13/2015 19:53:16
+-----------------------
+System.InvalidCastException: Specified cast is not valid.
+   at DuckLib.DuckDuck.get_IsInstalled() in c:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckLib\DuckDuck.cs:line 98
+-----------------------
+
+-----------------------
+--- 6/13/2015 20:08:46
+-----------------------
+System.Configuration.Install.InstallException: An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete. ---> System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+   at System.ServiceProcess.ServiceInstaller.RemoveService()
+   at System.ServiceProcess.ServiceInstaller.Uninstall(IDictionary savedState)
+   at System.Configuration.Install.Installer.Uninstall(IDictionary savedState)
+   --- End of inner exception stack trace ---
+   at System.Configuration.Install.ManagedInstallerClass.InstallHelper(String[] args)
+   at DuckLib.DuckDuck.Uninstall(String prmLocation) in c:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckLib\DuckDuck.cs:line 67
+-----------------------
+
+-----------------------
+--- 7/23/2015 22:57:17
+-----------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at DuckLib.DuckDuck.RegistryLoad() in c:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckLib\DuckDuck.cs:line 122
+-----------------------
+
+-----------------------
+--- 7/23/2015 22:57:17
+-----------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at DuckLib.DuckDuck.RegistryLoad() in c:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckLib\DuckDuck.cs:line 122
+-----------------------
+
+-----------------------
+--- 7/23/2015 22:57:17
+-----------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at DuckLib.DuckDuck.RegistryLoad() in c:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckLib\DuckDuck.cs:line 122
+-----------------------
+
+-----------------------
+--- 7/23/2015 23:23:48
+-----------------------
+Goose!
+-----------------------
+
+-----------------------
+--- 7/23/2015 23:25:35
+-----------------------
+Goose!
+-----------------------
+
+-----------------------
+--- 7/23/2015 23:38:21
+-----------------------
+Goose!
+-----------------------
+
+-----------------------
+--- 7/24/2015 00:01:17
+-----------------------
+Goose!
+-----------------------
+
+-----------------------
+--- 7/24/2015 00:01:38
+-----------------------
+Goose!
+-----------------------
+

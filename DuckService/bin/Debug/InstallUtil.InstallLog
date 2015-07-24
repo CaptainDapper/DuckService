@@ -1,0 +1,67 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe assembly's progress.
+The file is located at C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe assembly's progress.
+The file is located at C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe assembly's progress.
+The file is located at C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe assembly's progress.
+The file is located at C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe assembly's progress.
+The file is located at C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe assembly's progress.
+The file is located at C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe assembly's progress.
+The file is located at C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe assembly's progress.
+The file is located at C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Cannot open Service Control Manager on computer '.'. This operation might require other privileges.
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: Access is denied.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe assembly's progress.
+The file is located at C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.

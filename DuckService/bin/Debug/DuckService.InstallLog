@@ -1,0 +1,141 @@
+﻿Installing assembly 'C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog
+   assemblypath = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe assembly.
+Committing assembly 'C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog
+   assemblypath = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe assembly.
+Remove InstallState file because there are no installers.
+Uninstalling assembly 'C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog
+   assemblypath = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe assembly.
+Uninstalling assembly 'C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog
+   assemblypath = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe assembly.
+Installing assembly 'C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog
+   assemblypath = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe assembly.
+Committing assembly 'C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog
+   assemblypath = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe assembly.
+Remove InstallState file because there are no installers.
+Uninstalling assembly 'C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog
+   assemblypath = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe assembly.
+Installing assembly 'C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog
+   assemblypath = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog
+   assemblypath = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog
+   assemblypath = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog
+   assemblypath = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe
+Uninstalling assembly 'C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog
+   assemblypath = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog
+   assemblypath = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog
+   assemblypath = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe
+Uninstalling assembly 'C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog
+   assemblypath = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog
+   assemblypath = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog
+   assemblypath = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe
+Uninstalling assembly 'C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog
+   assemblypath = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog
+   assemblypath = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe
+Installing service DuckService...
+Service DuckService has been successfully installed.
+Creating EventLog source DuckService in log Application...
+Committing assembly 'C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog
+   assemblypath = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe
+Uninstalling assembly 'C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.InstallLog
+   assemblypath = C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe
+Removing EventLog source DuckService.
+Service DuckService is being removed from the system...
+Service DuckService was successfully removed from the system.

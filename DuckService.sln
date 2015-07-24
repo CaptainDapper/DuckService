@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuckService", "DuckService\DuckService.csproj", "{30EF6CC5-07E9-4671-B85B-AADBF0E923EC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{ED70CCDA-0691-4702-9E67-ED22C1095894} = {ED70CCDA-0691-4702-9E67-ED22C1095894}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuckLib", "DuckLib\DuckLib.csproj", "{ED70CCDA-0691-4702-9E67-ED22C1095894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuckSetup", "DuckSetup\DuckSetup.csproj", "{E927917F-AE28-48F0-A8CE-30590944E1B5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{30EF6CC5-07E9-4671-B85B-AADBF0E923EC} = {30EF6CC5-07E9-4671-B85B-AADBF0E923EC}
+		{ED70CCDA-0691-4702-9E67-ED22C1095894} = {ED70CCDA-0691-4702-9E67-ED22C1095894}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30EF6CC5-07E9-4671-B85B-AADBF0E923EC}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{30EF6CC5-07E9-4671-B85B-AADBF0E923EC}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{30EF6CC5-07E9-4671-B85B-AADBF0E923EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30EF6CC5-07E9-4671-B85B-AADBF0E923EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30EF6CC5-07E9-4671-B85B-AADBF0E923EC}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{30EF6CC5-07E9-4671-B85B-AADBF0E923EC}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{30EF6CC5-07E9-4671-B85B-AADBF0E923EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30EF6CC5-07E9-4671-B85B-AADBF0E923EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30EF6CC5-07E9-4671-B85B-AADBF0E923EC}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{30EF6CC5-07E9-4671-B85B-AADBF0E923EC}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{ED70CCDA-0691-4702-9E67-ED22C1095894}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{ED70CCDA-0691-4702-9E67-ED22C1095894}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{ED70CCDA-0691-4702-9E67-ED22C1095894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED70CCDA-0691-4702-9E67-ED22C1095894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED70CCDA-0691-4702-9E67-ED22C1095894}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED70CCDA-0691-4702-9E67-ED22C1095894}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{ED70CCDA-0691-4702-9E67-ED22C1095894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED70CCDA-0691-4702-9E67-ED22C1095894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED70CCDA-0691-4702-9E67-ED22C1095894}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{ED70CCDA-0691-4702-9E67-ED22C1095894}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{E927917F-AE28-48F0-A8CE-30590944E1B5}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{E927917F-AE28-48F0-A8CE-30590944E1B5}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{E927917F-AE28-48F0-A8CE-30590944E1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E927917F-AE28-48F0-A8CE-30590944E1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E927917F-AE28-48F0-A8CE-30590944E1B5}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{E927917F-AE28-48F0-A8CE-30590944E1B5}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{E927917F-AE28-48F0-A8CE-30590944E1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E927917F-AE28-48F0-A8CE-30590944E1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E927917F-AE28-48F0-A8CE-30590944E1B5}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{E927917F-AE28-48F0-A8CE-30590944E1B5}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

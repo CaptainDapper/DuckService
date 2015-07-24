@@ -1,0 +1,4 @@
+C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckLib\bin\Debug\DuckLib.dll
+C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckLib\bin\Debug\DuckLib.pdb
+C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckLib\obj\Debug\DuckLib.dll
+C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckLib\obj\Debug\DuckLib.pdb

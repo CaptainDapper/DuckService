@@ -1,0 +1,11 @@
+C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe.config
+C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.exe
+C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckService.pdb
+C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckLib.dll
+C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\bin\Debug\DuckLib.pdb
+C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\obj\Debug\DuckService.csprojResolveAssemblyReference.cache
+C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\obj\Debug\DuckService.ProjectInstaller.resources
+C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\obj\Debug\DuckService.DuckService.resources
+C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\obj\Debug\DuckService.csproj.GenerateResource.Cache
+C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\obj\Debug\DuckService.exe
+C:\Users\Sloan\Documents\Visual Studio 2013\Projects\DuckService\DuckService\obj\Debug\DuckService.pdb
